@@ -1,0 +1,3 @@
+[submodule "@TIFFStack"]
+	path = @TIFFStack
+	url = https://github.com/DylanMuir/TIFFStack.git
